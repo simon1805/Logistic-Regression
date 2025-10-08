@@ -1,4 +1,7 @@
 ## Prüfungsaufgabe 1: Logistik Regression
 Das Notebook kann per mybinder (https://mybinder.org/) geöffnet werden.
 Folgende Daten müssen in die Felder eingetragen werden:
-* Hallo
+* Github Repo: https://github.com/simon1805/Logistic-Regression.git
+* Git ref: main
+* File to open: index.ipynb
+  
